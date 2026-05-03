@@ -14,3 +14,12 @@ git push = to add a file to ur repository u need
 git status = shows what files is in what condition
 git log = shows when the things have been changed 
 git reset (id of file) = to delete the file (it deletes until the file that uve given the id of)
+git head is the main branch that keep our full safe code n the main place to keep a code 
+git branch ( name of new branch: alycamaliot ) = is for creating a new branch to work safe n not being worried abt a risky code 
+( its like a box but it keeps risky code outside of the main branch )
+git checkout ( name of branch: alycamaliot ) = after creating the new branch it makes u to jump
+into that new branch so u can work n push the code safely without changing the main code 
+git merge ( name of new branch: alycamaliot ) = it makes ur branch jump into main branch
+n to become one branch ( its used after branch is being tasted n maken sure that the code is
+working without errors n mistakes ) 
+
