@@ -1,0 +1,16 @@
+ls = is to see what files we have 
+mkdir = is to create a foulder 
+touch = is for creating a file 
+cd = is to enter the foulder 
+nano = is to change what is inside the file 
+git stash = is to send a file to background not to main git 
+git stash pop = is to get back files which is in background 
+git stash clear = for cleaning the file that is in background
+git add = is to add things 
+git commit -m = is to leave a comment 
+git remote add origin (link) = for pointing ur main account 
+after it there will be two things like push n fetch 
+git push = to add a file to ur repository u need
+git status = shows what files is in what condition
+git log = shows when the things have been changed 
+git reset (id of file) = to delete the file (it deletes until the file that uve given the id of)
