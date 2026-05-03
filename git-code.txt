@@ -53,3 +53,24 @@ that is needed for this project
 git clone = is being used for creating the clone of the project or downloading the free 
 give resources 
 
+n u can do upstream too to get updated w new codes n files 
+
+when contributing to a new open source dont forget to create ur own branch so it doesnt effect 
+main branch
+
+after creating a new branch n addint changes u can push the code into ur branch not the main
+bcs u have no access to main account's main branch 
+
+so after doing it u can send a pull request to the main origin's owner after pushing ur code
+to ur own branch so after code is being checked by author of the origin u can get either 
+suggestion or approval so ur code will live in the original code base
+
+SUGGESTION: [ dont overdo things n focus on only one part or feature of the code like
+if uk which one leetcode or any problem solving stuff can make the project better? do only
+this one n do pull request instead of 20 leetcode stuffs, otherwise it will get coplicated to
+find a bug n to fix this ];
+
+SUGGESTION: [ only one branch = one pull request, it makes coding n fix problem easier as u
+dont have to do 10 features n stuffs at the time n u will js need to look at 10 lines of code 
+instead of 500 lines ]
+
