@@ -74,3 +74,14 @@ SUGGESTION: [ only one branch = one pull request, it makes coding n fix problem 
 dont have to do 10 features n stuffs at the time n u will js need to look at 10 lines of code 
 instead of 500 lines ]
 
+to delete the tons of commit n to left only files until uve left the comit u want n delete
+( git reset ( id ) ) all comit u dont want n left to git stash files that aint needed n do
+git push origin ( branch only otherwise its risky to do it to main branch as others can lose
+their work ) 
+
+git pull upstream main = helps u fetch the new version of the code so u will be up-to-date
+
+git rebase -i ( id of the commit ) = to change several commit into one commit 
+
+pick and s = means s squash this commit to whatever came earlier ( if the pick comes early that it will
+be p ) example pick = 1 n n s = 2: pick + s = pick = 1	
