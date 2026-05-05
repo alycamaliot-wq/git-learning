@@ -21,6 +21,10 @@ git commit -m = is to leave a comment
 
 git remote add origin (link) = for pointing ur main account 
 
+git remote -v = for showing the repository ur in n the things u can control w it
+
+git pull origin master = to get the codes inside the repository asap
+
 after it there will be two things like push n fetch 
 
 git push = to add a file to ur repository u need
