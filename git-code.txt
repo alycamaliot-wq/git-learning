@@ -1,0 +1,92 @@
+
+ls = is to see what files we have 
+
+mkdir = is to create a foulder 
+
+touch = is for creating a file 
+
+cd = is to enter the foulder 
+
+nano = is to change what is inside the file 
+
+git stash = is to send a file to background not to main git 
+
+git stash pop = is to get back files which is in background 
+
+git stash clear = for cleaning the file that is in background
+
+git add = is to add things 
+
+git commit -m = is to leave a comment 
+
+git remote add origin (link) = for pointing ur main account 
+
+git remote -v = for showing the repository ur in n the things u can control w it
+
+git pull origin master = to get the codes inside the repository asap
+
+after it there will be two things like push n fetch 
+
+git push = to add a file to ur repository u need
+
+git status = shows what files is in what condition
+
+git log = shows when the things have been changed 
+
+git reset (id of file) = to delete the file (it deletes until the file that uve given the id of)
+
+git head is the main branch that keep our full safe code n the main place to keep a code 
+
+git branch ( name of new branch: alycamaliot ) = is for creating a new branch to work safe n not being worried abt a risky code 
+( its like a box but it keeps risky code outside of the main branch )
+
+git checkout ( name of branch: alycamaliot ) = after creating the new branch it makes u to jump
+into that new branch so u can work n push the code safely without changing the main code 
+
+git merge ( name of new branch: alycamaliot ) = it makes ur branch jump into main branch
+
+n to become one branch ( its used after branch is being tasted n maken sure that the code is
+working without errors n mistakes ) 
+
+for contributing an open soures u need to enter to that repository n fork it into 
+ur own repository so u can add changes n etc 
+
+after forking it into ur own account u need to git clone to download the code n sources
+that is needed for this project 
+
+git clone = is being used for creating the clone of the project or downloading the free 
+give resources 
+
+n u can do upstream too to get updated w new codes n files 
+
+when contributing to a new open source dont forget to create ur own branch so it doesnt effect 
+main branch
+
+after creating a new branch n addint changes u can push the code into ur branch not the main
+bcs u have no access to main account's main branch 
+
+so after doing it u can send a pull request to the main origin's owner after pushing ur code
+to ur own branch so after code is being checked by author of the origin u can get either 
+suggestion or approval so ur code will live in the original code base
+
+SUGGESTION: [ dont overdo things n focus on only one part or feature of the code like
+if uk which one leetcode or any problem solving stuff can make the project better? do only
+this one n do pull request instead of 20 leetcode stuffs, otherwise it will get coplicated to
+find a bug n to fix this ];
+
+SUGGESTION: [ only one branch = one pull request, it makes coding n fix problem easier as u
+dont have to do 10 features n stuffs at the time n u will js need to look at 10 lines of code 
+instead of 500 lines ]
+
+to delete the tons of commit n to left only files until uve left the comit u want n delete
+( git reset ( id ) ) all comit u dont want n left to git stash files that aint needed n do
+git push origin ( branch only otherwise its risky to do it to main branch as others can lose
+their work ) 
+
+git pull upstream main = helps u fetch the new version of the code so u will be up-to-date
+
+git rebase -i ( id of the commit ) = to change several commit into one commit 
+
+pick and s = means s squash this commit to whatever came earlier ( if the pick comes early that it will
+be p ) example pick = 1 n n s = 2: pick + s = pick = 1	
+ 
