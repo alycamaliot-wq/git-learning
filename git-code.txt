@@ -89,4 +89,5 @@ git rebase -i ( id of the commit ) = to change several commit into one commit
 
 pick and s = means s squash this commit to whatever came earlier ( if the pick comes early that it will
 be p ) example pick = 1 n n s = 2: pick + s = pick = 1	
+<<<<<<< HEAD
  
